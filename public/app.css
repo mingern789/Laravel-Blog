@@ -1,9 +1,5 @@
-body {
-    background: white;
-    color: #222222;
-    max-width: 600px;
-    margin: auto;
-    font-family: sans-serif;
+html {
+    scroll-behavior: smooth;
 }
 
 p {
